@@ -1,0 +1,8 @@
+What I have done so far:
+    - Made a core app to hold the base templates and the utilities
+    - Made a users app to hold the user profile and the user registration and auth
+    - Made a products app to hold the product model and the related stuff
+    - Made a cart app to hold the cart model and the related stuff
+
+Each app does target a specific functionality and is not supposed to be used for anything else.
+The core app is the only one that is not specific to the project and can be used for other projects.

@@ -1,0 +1,6 @@
+pillow = *
+Django~=5.0
+djangorestframework~=3.14.0
+django-types
+django-stubs
+mysqlclient
